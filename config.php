@@ -1,3 +1,2 @@
 <?php
-$title = "Exu Tiriri ";
-// $password = "123";
+$version='2.2';

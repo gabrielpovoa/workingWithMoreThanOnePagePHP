@@ -1,11 +1,3 @@
-<?php
-require('config.php');
-require('home.php');
-
-echo "<hr/>";
-echo "Page Title: ".$title;
-
-
-
-
+<a href="pages/home.php">Home Page</a>
+<a href="pages/about.php">About us</a>
 

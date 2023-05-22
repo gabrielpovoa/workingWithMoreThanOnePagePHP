@@ -1,4 +1,4 @@
-<?php require 'header.php'; ?>
+<?php require '../template/structure/header.php'; ?>
 
 <style>
         main {
